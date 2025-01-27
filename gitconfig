@@ -61,4 +61,4 @@
   defaultBranch = master
 [user]
 	email = faisal-13ad@hotmail.com
-	name = gh api user/emails | jq -r '.[].email'
+	name = faisal aldhubaeai
